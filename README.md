@@ -1,0 +1,1 @@
+En este cuadernillo encontraras una limpieza de un csv donde se pueden ver el valor del bitcoin, fue un proyecto realizado durante un bootcamp llamado CAPPA, la necesidad de realizarlo fue debidp a la escases de tarjetas graficas durante la pandemia de COVID19
